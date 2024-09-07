@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f8dee8;
+  /* background-image: url("public/underwater.png"); */
+
+  font-family: "Rubik", sans-serif;
+  /* font-size: ; */
+}
