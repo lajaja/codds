@@ -12,7 +12,7 @@ const PopUp = ({ children, openPopUp, closePopUp }) => {
     <div
       id="ModelContainer"
       onClick={handlelosePopUp}
-      className="fixed inset-0 h-full w-full flex justify-center items-center  z-[99999]"
+      className="fixed inset-0 h-full w-full flex justify-center items-center  z-[99999] "
     >
       <div className="lg:mb-48  relative flex flex-col items-start p-5 bg-white w-10/12 md:w-2/3 lg:2/3 h-1/2 shadow-rd rounded-lg ">
         <img
